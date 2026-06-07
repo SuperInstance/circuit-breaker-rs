@@ -1,0 +1,12 @@
+[package]
+name = "circuit-breaker-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Circuit breaker pattern implementation in Rust with state machine, metrics, and health check integration"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/circuit-breaker-rs"
+keywords = ["circuit-breaker", "resilience", "fault-tolerance", "state-machine"]
+categories = ["algorithms", "network-programming", "asynchronous"]
+readme = "README.md"
+
+[dependencies]
